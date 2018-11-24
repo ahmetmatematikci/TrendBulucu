@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trend Bulucu</string>
+    <string name="uyari">Burada paylaşılan Bilgiler YATIRIM TAVSİYESİ OLMAYIP doğacak her türlü zarardan kullancı sorumludur.
+            Bu programı kullanmanız ile bu şartları kabul ettiğiniz varsayılmaktadır.
+
+        Veriler günlük olarak çekilmekte olup APIlerden gelen verilerin filtrelenmesi ile ekrana yansımasına dayanmaktadır.
+        Burada paylaşılan bilgileri
+        <b><a href="https://hardforkcafe.net/"> hardforkcafe.net</a></b> de  tartışabilirsiniz.
+
+
+
+       </string>
+
+    <string name="link"><a href="https://hardforkcafe.net/"> hardforkcafe.net</a></string>
+</resources>
